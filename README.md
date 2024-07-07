@@ -7,3 +7,7 @@
 ## Start project
 
 `python manage.py runserver`
+
+## Urls
+
+- `api/schema/swagger-ui/` - swagger
